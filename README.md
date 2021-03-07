@@ -1,5 +1,5 @@
 
-# E-Commerce Backend (Object-Relational Mapping (ORM))
+# E-Commerce Backend (Object-Relational Mapping (ORM)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description 
@@ -38,12 +38,12 @@ This project is about building the back end for an e-commerce site. This applica
 ## Demonstration 
 This application will allow users to view, add, edit, and delete categories, products, and tags. Below videos demonstrate the functionality of the e-commerce back end.
 
-Walkthrough video covers MySQL shell [Click here]()<br>
-    * Create the schema <br>
+1. Walkthrough video covers MySQL shell [Click here](https://drive.google.com/file/d/1aDIpl7tWHzKQ0azCVqr8WziJHOI3ft1V/view)<br>
+    * Source the schema <br>
     * Seed the database <br>
     * Start the npm Server
        
-Walkthrough video covers API routes being tested in Insomnia Core. [Click here]()<br>
+2. Walkthrough video covers API routes being tested in Insomnia Core. [Click here]()<br>
     *  GET routes for all categories, all products, and all tags <br>
     *  GET routes for a single category, a single product, and a single tag <br>
     *  POST, PUT, and DELETE routes for categories, products, and tags
