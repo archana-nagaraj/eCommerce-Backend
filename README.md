@@ -48,7 +48,7 @@ This application will allow users to view, add, edit, and delete categories, pro
     *  GET routes for a single category, a single product, and a single tag by Id<br>
     *  POST, PUT, and DELETE routes for categories, products, and tags
 
-3. Walkthrough video showing all the technical acceptance criteria met. [CLick here](https://drive.google.com/file/d/1j1YjbTw7kyNK469iLeNP5PK7gSsiP0JA/view)<br>
+3. Walkthrough video showing all the technical acceptance criteria met. [CLick here](https://drive.google.com/file/d/1qy8DMYaecLxnBzoLKwPnXkWg74nQPx8I/view?usp=sharing)<br>
     * Uses the MySQL2 and Sequelize packages to connect to a MySQL database
     * Uses the dotenv package to use environment variables to store sensitive data, like a user’s MySQL username, password, and database name.
     * Syncs Sequelize models to a MySQL database on the server start.
